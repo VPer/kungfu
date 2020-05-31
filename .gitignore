@@ -29,7 +29,6 @@ dist/
 .clang-format
 .project
 package-lock.json
-*.lock
 
 # OS files
 .DS_Store
